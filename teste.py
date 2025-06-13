@@ -1,3 +1,3 @@
 import os
 
-print('Teste de alteração do GIT HUB')
+print('Agora fiz o segundo COMMIT')
